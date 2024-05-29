@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/207607097224178402/5586b976ccd040359d312ceed846a512/artifacts
+end_time: 1717003821578
+entry_point_name: ''
+experiment_id: '207607097224178402'
+lifecycle_stage: active
+run_id: 5586b976ccd040359d312ceed846a512
+run_name: invincible-whale-59
+run_uuid: 5586b976ccd040359d312ceed846a512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717003821562
+status: 3
+tags: []
+user_id: codespace

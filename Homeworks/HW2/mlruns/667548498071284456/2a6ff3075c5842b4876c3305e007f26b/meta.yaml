@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/Homeworks/HW2/mlruns/667548498071284456/2a6ff3075c5842b4876c3305e007f26b/artifacts
+end_time: 1716994074581
+entry_point_name: ''
+experiment_id: '667548498071284456'
+lifecycle_stage: active
+run_id: 2a6ff3075c5842b4876c3305e007f26b
+run_name: traveling-sponge-526
+run_uuid: 2a6ff3075c5842b4876c3305e007f26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716994058638
+status: 3
+tags: []
+user_id: codespace

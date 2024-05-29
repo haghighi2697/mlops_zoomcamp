@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/207607097224178402/84bcd853d2e948a188f6d9915f15d1b9/artifacts
+deleted_time: 1717003752541
+end_time: 1717003534118
+entry_point_name: ''
+experiment_id: '207607097224178402'
+lifecycle_stage: deleted
+run_id: 84bcd853d2e948a188f6d9915f15d1b9
+run_name: stylish-snake-372
+run_uuid: 84bcd853d2e948a188f6d9915f15d1b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717003534103
+status: 3
+tags: []
+user_id: codespace

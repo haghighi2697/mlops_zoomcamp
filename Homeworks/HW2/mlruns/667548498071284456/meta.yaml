@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops_zoomcamp/Homeworks/HW2/mlruns/667548498071284456
+creation_time: 1716994058260
+experiment_id: '667548498071284456'
+last_update_time: 1716994058260
+lifecycle_stage: active
+name: taxi_regressor_experiment

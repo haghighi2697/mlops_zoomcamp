@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/Homeworks/HW2/mlruns/667548498071284456/1895aada0b244d968cb8774814f55f0b/artifacts
+end_time: 1717011215103
+entry_point_name: ''
+experiment_id: '667548498071284456'
+lifecycle_stage: active
+run_id: 1895aada0b244d968cb8774814f55f0b
+run_name: inquisitive-rat-640
+run_uuid: 1895aada0b244d968cb8774814f55f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717011199983
+status: 3
+tags: []
+user_id: codespace

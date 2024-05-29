@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/207607097224178402/277bab8c66754353a1e67b38a62d89e2/artifacts
+deleted_time: 1717003752551
+end_time: 1717001143425
+entry_point_name: ''
+experiment_id: '207607097224178402'
+lifecycle_stage: deleted
+run_id: 277bab8c66754353a1e67b38a62d89e2
+run_name: agreeable-shark-712
+run_uuid: 277bab8c66754353a1e67b38a62d89e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717001143417
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/207607097224178402/9c2b81519639444689b982252827b704/artifacts
+deleted_time: 1717003752546
+end_time: 1717002526217
+entry_point_name: ''
+experiment_id: '207607097224178402'
+lifecycle_stage: deleted
+run_id: 9c2b81519639444689b982252827b704
+run_name: victorious-mole-510
+run_uuid: 9c2b81519639444689b982252827b704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717002526205
+status: 4
+tags: []
+user_id: codespace

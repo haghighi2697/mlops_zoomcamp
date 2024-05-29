@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/207607097224178402/f758d312d8e343ffa671fcda610e0525/artifacts
+deleted_time: 1717003752537
+end_time: 1717003653388
+entry_point_name: ''
+experiment_id: '207607097224178402'
+lifecycle_stage: deleted
+run_id: f758d312d8e343ffa671fcda610e0525
+run_name: gentle-horse-364
+run_uuid: f758d312d8e343ffa671fcda610e0525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717003653373
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/207607097224178402/2089fe713f9b478c902f3c6ffc883304/artifacts
+deleted_time: 1717003752559
+end_time: 1717000115067
+entry_point_name: ''
+experiment_id: '207607097224178402'
+lifecycle_stage: deleted
+run_id: 2089fe713f9b478c902f3c6ffc883304
+run_name: worried-crab-23
+run_uuid: 2089fe713f9b478c902f3c6ffc883304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717000115059
+status: 4
+tags: []
+user_id: codespace
